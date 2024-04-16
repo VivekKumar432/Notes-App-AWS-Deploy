@@ -27,7 +27,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1 style={{textAlign: 'center'}}>Notes Taking App</h1>
+      <h1 style={{textAlign: 'center'}}>Notes Workshop App</h1>
     </header>
   );
 };
